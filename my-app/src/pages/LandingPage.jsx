@@ -284,7 +284,7 @@ const Hero = () => {
                             transition={{ duration: 0.6, delay: 0.4 }}
                             className="text-lg text-gray-400 mb-8 max-w-xl leading-relaxed"
                         >
-                            In the world of digital arbitrage and exchange, cash flow is king. Our platform is built to maximize your liquidity, offering instant settlements for Gift Cards, e-Transfers, and digital wallet transactions.
+                            In the world of digital arbitrage and exchange, cash flow is king. Our platform is built to maximize your liquidity, offering instant settlements for Gift Cards, e-Transfers , Cashapp, Zelle, Paypal and digital wallet transactions.
                         </motion.p>
 
                         <motion.div 
@@ -614,7 +614,7 @@ const Offerings = () => {
                     transition={{ duration: 0.6, delay: 0.4 }}
                 >
                     <span className="text-xl font-bold tracking-tighter flex items-center gap-1"><Smartphone size={20} /> CashApp</span>
-                    <span className="text-xl font-bold tracking-widest font-serif">ZEELLE</span>
+                    <span className="text-xl font-bold tracking-widest font-serif">ZELLE</span>
                     <span className="text-xl font-bold italic font-mono text-blue-400">PayPal</span>
                     <span className="text-xl font-bold tracking-tight text-orange-400">Mastercard</span>
                     <span className="text-xl font-bold flex items-center gap-1"><div className="w-4 h-4 rounded-full bg-red-500"></div> Visa</span>
